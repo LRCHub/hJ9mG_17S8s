@@ -1,0 +1,100 @@
+# SECRET NUMBER – TAP
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+궁금해져가 니 마음
+내 호기심을 자극해 yeah yeah
+빙빙 돌리며 말해
+그건 내가 좋아하는 game
+(game)
+넘쳐흐를 듯 말 듯
+니 매력을 탐구해
+(Hey come on boy)
+떠밀려가듯 나도 모르게
+니 앞에 왔어
+(I want your love)
+저 달도 날 보는 이 순간 yeah
+더 이상 숨기지 않아도 돼
+yeah
+(alright)
+니 눈에 비친 내 모습이
+더 예뻐 보이는데
+na wah wah wah wah
+가까워진다 니 눈빛 떨림 향기
+Tap Tap Tap
+Tap Tap Tap
+니 미소도 Tap Tap Tap
+wah uh wah uh wah ha ha woo
+Tap Tap Tap
+Tap Tap Tap
+니 입술을 Tap Tap Tap
+Turn it up Turn it up Turn it up
+발끝까지 다 전해져
+너무 짜릿짜릿해
+입술이 파르르 떨려
+오늘 밤은 길지 않아
+생각이 많아지는 밤
+왜 받아들이질 못 해
+yeah yeah yeah
+Turn it up Make it loud yuh
+내 심장은 oh eh oh eh oh
+ooh la la la
+내 머리는 oh eh oh eh oh
+ooh la la la
+감정에 불을 지펴
+Baby wake me up
+Baby can you fill it up
+if you know what's up
+나를 깨워주네 짜릿한 너의 손길로
+I come come alive
+when you do that
+(do that)
+Double tap you like it like
+네가 좋아
+저 별도 날 보는 이 순간 yeah
+더 이상 숨기지 않아도 돼
+yeah
+(alright)
+내 눈에 비친 니 모습도
+더 멋져 너도 한 번 쳐다봐
+가까워진다
+니 눈빛 떨림 향기 시선까지
+Tap Tap Tap
+Tap Tap Tap
+니 미소도 Tap Tap Tap
+wah uh wah uh wah ha ha woo
+Tap Tap Tap
+Tap Tap Tap
+니 입술을 Tap Tap Tap
+Turn it up Turn it up Turn it up
+발끝까지 전해져 yeah
+Shall we make a move
+All night All night
+걱정하지 마
+You will be all right
+시선은 Go straight
+자연스럽게 올라가는 내 손길
+(Ah Tap Tap Tap)
+Tap Tap Tap
+니 미소도 Tap Tap Tap
+wah uh wah uh wah ha ha woo
+Tap Tap Tap
+손끝에 feeling
+내 마음속에 전하게
+니 입술을 Tap Tap Tap
+손끝에 feeling
+Baby you baby you baby you baby
+Tap Tap Tap
+발끝까지 다 전해져
+너무 짜릿짜릿해
+입술이 파르르 떨려
+오늘 밤은 길지 않아
+생각이 많아지는 밤
+왜 받아들이질 못해
+yeah yeah yeah
+내 가슴은 oh eh oh eh oh
+내 심장은 oh eh oh eh oh
+내 마음은 oh eh oh eh oh
+ooh la la la
+```
