@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "TAP",
+  "base_artist": "SECRET NUMBER",
+  "createdAt": "2025-12-24T11:16:45.755790Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Dripping Tap",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_The_Dripping_Tap_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tap",
+      "artist": "NAV feat. Meek Mill",
+      "has_synced": true,
+      "path": "select/02_Tap_NAV_feat._Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tap (feat. Meek Mill)",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/03_Tap_(feat._Meek_Mill)_NAV.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KING TAP",
+      "artist": "Aaron Cartier",
+      "has_synced": true,
+      "path": "select/04_KING_TAP_Aaron_Cartier.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tap Your Glass (Live)",
+      "artist": "iamamiwhoami",
+      "has_synced": true,
+      "path": "select/05_Tap_Your_Glass_(Live)_iamamiwhoami.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tap Your Glass",
+      "artist": "iamamiwhoami",
+      "has_synced": true,
+      "path": "select/06_Tap_Your_Glass_iamamiwhoami.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boom Boom Tap",
+      "artist": "The Prodigy",
+      "has_synced": false,
+      "path": "select/07_Boom_Boom_Tap_The_Prodigy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tap Into The Power",
+      "artist": "Suicidal Tendencies",
+      "has_synced": false,
+      "path": "select/08_Tap_Into_The_Power_Suicidal_Tendencies.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Double Tap",
+      "artist": "Ministry",
+      "has_synced": true,
+      "path": "select/09_Double_Tap_Ministry.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Self Immolation - Vein Tap Mix",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/10_Self_Immolation_-_Vein_Tap_Mix_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tap, Twist, Snap",
+      "artist": "Sugar Ray",
+      "has_synced": true,
+      "path": "select/11_Tap,_Twist,_Snap_Sugar_Ray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tap Dancing",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/12_Tap_Dancing_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tap That",
+      "artist": "Megan McCauley",
+      "has_synced": false,
+      "path": "select/13_Tap_That_Megan_McCauley.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tap Twice",
+      "artist": "Katy Kirby",
+      "has_synced": true,
+      "path": "select/14_Tap_Twice_Katy_Kirby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "tap",
+      "artist": "Tomberlin",
+      "has_synced": true,
+      "path": "select/15_tap_Tomberlin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tap That",
+      "artist": "Megan McCauley",
+      "has_synced": true,
+      "path": "select/16_Tap_That_Megan_McCauley.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tap That (Josh Harris radio edit)",
+      "artist": "Megan McCauley",
+      "has_synced": false,
+      "path": "select/17_Tap_That_(Josh_Harris_radio_edit)_Megan_McCauley.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tap That (Morgan Page radio edit)",
+      "artist": "Megan McCauley",
+      "has_synced": false,
+      "path": "select/18_Tap_That_(Morgan_Page_radio_edit)_Megan_McCauley.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TAP",
+      "artist": "SECRET NUMBER",
+      "has_synced": false,
+      "path": "select/pl_01_TAP_SECRET_NUMBER.txt"
+    }
+  ]
+}
